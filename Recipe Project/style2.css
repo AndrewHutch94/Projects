@@ -1,0 +1,76 @@
+
+body {
+    font-family: Caudex;
+    background-color: whitesmoke;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-family: Cinzel;
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+.part_1 {
+    display: block;
+}
+
+.part_2 {
+    display: block;
+}
+
+#recipe_title {
+    text-align: center;
+}
+
+#main_image {
+    float: left;
+    width: 60%;
+    margin: 5px;
+}
+
+#main_image img {
+    border-radius: 100%;
+}
+
+#intro_exert {
+    width: 39%;
+    float: right;
+    font-size: 16px;
+    text-align: center;
+    
+}
+
+#intro_exert::first-letter {
+    font-size: 1.7em;
+    color: black;
+
+}
+
+h2 {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+
+ul {
+    list-style-type: square;
+}
+
+#nutrition {
+
+}
+
+#directions {
+    width: 100%;
+}
+
+.cooked_images {
+    text-align: center;
+}
+
